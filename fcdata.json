@@ -1,0 +1,8 @@
+{
+    "url": "https://fc-data.ssi.com.vn/",
+    "streaming_url": "https://fc-datahub.ssi.com.vn/",
+    "consumerId": "e70d9fa375694e25bd25831043ed0220",
+    "consumerSecret": "a20bef11f7c24cd0ba829c6bd2954304",
+    "channels": "X-TRADE:SSI"
+  }
+  
